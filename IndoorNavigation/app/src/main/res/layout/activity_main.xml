@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="@color/colorAccent">
+
+    <com.example.rishabh.nevdijsktra.Capture
+        android:id="@+id/surfaceV"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true" />
+
+    <Button
+        android:id="@+id/bFind"
+        android:layout_width="85dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:text="Find Path"
+        android:layout_alignParentRight="true" />
+
+    <Spinner
+        android:id="@+id/spinnerSource"
+        android:layout_width="131dp"
+        android:layout_height="34dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/spinnerDestination"
+        android:background="@android:color/holo_purple"
+        android:layout_alignParentLeft="true" />
+
+    <Spinner
+        android:id="@+id/spinnerDestination"
+        android:layout_width="124dp"
+        android:layout_height="35dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="13dp"
+        android:layout_marginEnd="103dp"
+        android:background="@android:color/holo_purple"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="103dp" />
+
+
+</RelativeLayout>

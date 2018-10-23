@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">nevDijsktra</string>
+    <string name="source_node">Source Node</string>
+    <string name="destination_node">Destination Node</string>
+
+    <string-array name="names">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+    </string-array>
+</resources>
