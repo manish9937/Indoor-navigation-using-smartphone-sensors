@@ -4,7 +4,7 @@
  * 
  * written by Vas
  * */
-package com.example.rishabh.nevdijsktra.ToolBox;
+package com.example.manish.nevdijsktra.ToolBox;
 
 import com.example.rishabh.nevdijsktra.Capture;
 import android.annotation.SuppressLint;

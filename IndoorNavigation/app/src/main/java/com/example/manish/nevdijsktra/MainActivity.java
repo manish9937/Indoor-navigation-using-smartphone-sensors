@@ -1,4 +1,4 @@
-package com.example.rishabh.nevdijsktra;
+package com.example.manish.nevdijsktra;
 
 import android.graphics.PointF;
 import android.support.v7.app.AppCompatActivity;

@@ -1,4 +1,4 @@
-package com.example.rishabh.nevdijsktra.stepDetection;
+package com.example.manish.nevdijsktra.stepDetection;
 
 /**
  * An interface to be notified abuot detected steps and their directions. Also

@@ -1,4 +1,4 @@
-package com.example.rishabh.nevdijsktra.dijkstra;
+package com.example.manish.nevdijsktra.dijkstra;
 
 import com.example.rishabh.nevdijsktra.dijkstra.node;
 

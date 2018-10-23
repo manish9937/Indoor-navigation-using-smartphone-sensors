@@ -1,4 +1,4 @@
-package com.example.rishabh.nevdijsktra.ToolBox;
+package com.example.manish.nevdijsktra.ToolBox;
 
 import android.content.Context;
 import android.hardware.Sensor;

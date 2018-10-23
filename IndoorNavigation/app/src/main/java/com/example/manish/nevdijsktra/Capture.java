@@ -1,4 +1,4 @@
-package com.example.rishabh.nevdijsktra;
+package com.example.manish.nevdijsktra;
 
 import android.annotation.SuppressLint;
 import android.app.AlertDialog;

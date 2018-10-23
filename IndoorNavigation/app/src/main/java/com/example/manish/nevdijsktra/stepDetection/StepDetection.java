@@ -1,4 +1,4 @@
-package com.example.rishabh.nevdijsktra.stepDetection;
+package com.example.manish.nevdijsktra.stepDetection;
 
 import android.content.Context;
 import android.hardware.Sensor;

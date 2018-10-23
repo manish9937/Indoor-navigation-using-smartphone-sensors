@@ -1,4 +1,4 @@
-package com.example.rishabh.nevdijsktra;
+package com.example.manish.nevdijsktra;
 
 import org.junit.Test;
 

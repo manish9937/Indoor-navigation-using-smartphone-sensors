@@ -1,4 +1,4 @@
-package com.example.rishabh.nevdijsktra;
+package com.example.manish.nevdijsktra;
 
 import android.graphics.Canvas;
 import android.view.SurfaceHolder;
